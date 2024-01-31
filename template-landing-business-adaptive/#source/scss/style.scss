@@ -12,12 +12,13 @@
 
 /*
 @font-face {
-    font-family: 'Gilroy';
-    src: url('../fons/Gilroy-ExtraBold.eot');
-    src: local('../fons/Gilroy ExtraBold'), local('../fons/Gilroy-ExtraBold'),
-        url('../fons/Gilroy-ExtraBold.eot?#iefix') format('embedded-opentype'),
-        url('../fons/Gilroy-ExtraBold.woff') format('woff'),
-        url('../fons/Gilroy-ExtraBold.ttf') format('truetype');
+    font-family: 'Bangers';
+    src: url('../fons/Bangers-ExtraBold.eot');
+    src: local('../fons/Bangers ExtraBold'), local('../fons/Bangers-ExtraBold'),
+        url('../fons/Bangers-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('../fons/Bangers-ExtraBold.woff') format('woff'),
+        url('../fons/Bangers-ExtraBold.woff2') format('woff2'),
+        url('../fons/Bangers-ExtraBold.ttf') format('truetype');
     font-weight: 800;
     font-style: normal;
 }
@@ -26,7 +27,7 @@
 /*--------------------------------------------------------------------------------------------------------------------------------------------------*/
 /*--------------------technical tags--------------------------*/
 body{
-    font-family: 'Hind Vadodara';
+    font-family: 'Bangers';
     font-weight: 400;
     color: #331B3B;
 
@@ -166,7 +167,7 @@ body{
 
 
     &__logo {
-        font-family: 'Times New Roman', Times, serif;
+        font-family: 'Bangers', serif;
         flex: 1 1 33.3%;
         text-align: center;
         font-size: 24px;
