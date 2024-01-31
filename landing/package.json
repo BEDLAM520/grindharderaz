@@ -1,0 +1,26 @@
+{
+  "name": "grind-harder-landing",
+  "version": "0.0.1",
+  "description": "Grind Harder LLC Landing Page",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BEDLAM520/grindharderaz.git#main"
+  },
+  "keywords": [
+    "landing",
+    "onepage",
+    "grindharder",
+    "bedlam520",
+    "2024"
+  ],
+  "author": "bedlam520",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BEDLAM520/grindharderaz/issues"
+  },
+  "homepage": "https://github.com/BEDLAM520/grindharderaz/tree/main#readme"
+}
